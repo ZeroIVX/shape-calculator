@@ -1,0 +1,29 @@
+# 构建产物
+build/
+bin/
+obj/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.exp
+*.iobj
+*.ipdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.VC.db
+
+# 编辑器
+.vscode/
+.idea/
+
+# 系统与临时文件
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*.log
